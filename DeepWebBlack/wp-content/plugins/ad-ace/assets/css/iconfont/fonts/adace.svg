@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="adace" horiz-adv-x="16">
+    <font-face font-family="adace"
+      units-per-em="2000" ascent="2000"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="adblocker-warning"
+      unicode="&#xE000;"
+      horiz-adv-x="2000" d=" M1000 2000C1000 1750 125 1750 125 1750S125 1000 125 700C125 200 1000 49.9999999999998 1000 0C1000 50 1875 200 1875 700C1875 1000 1875 1750 1875 1750S1000 1750 1000 2000zM1362.5 725L1275.0000000000002 637.5000000000002L1000 912.5L725 637.5000000000002L637.5 725L912.5 1000L637.5 1275L725 1362.5L1000 1087.5L1275 1362.5L1362.4999999999998 1275L1087.5 1000L1362.5 725z" />
+    <glyph glyph-name="close"
+      unicode="&#xE001;"
+      horiz-adv-x="2000" d=" M1537.5 1625L1000 1087.5L462.5 1625L375 1537.5L912.5 1000L375 462.5L462.5 375L1000 912.5L1537.5 375L1625 462.5L1087.5 1000L1625 1537.5z" />
+  </font>
+</defs>
+</svg>
